@@ -13,3 +13,9 @@ background-color: antiquewhite;
 padding: 16px;
 margin: 16px;
 }
+
+.conteudo-site{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
